@@ -10,6 +10,6 @@ A clean, minimalistic theme for NetNewsWire based on the Slab theme by [@StealSo
 4. Place `Slabmo.nnwtheme` into that folder,
 5. Select 'Slabmo' from the theme selector.
 
-## Transparency Declaration
+## Transparency Disclaimer
 
-[ai.collaboratedwith.me](ai.collaboratedwith.me) to generate the CSS and HTML in this repository.
+[ai.collaboratedwith.me](https://ai.collaboratedwith.me) in creating this project.
